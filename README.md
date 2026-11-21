@@ -6,16 +6,6 @@
   />
 </div>
 
-<div align="center">
-
-# 💻 BFTECNO
-
-### 🚀 Tecnología, conocimiento y soluciones
-
-**Soporte Técnico • Open Source • Infraestructura IT • Novedades**
-
-</div>
-
 ---
 
 ## 👋 ¡Hola! Soy Ariel Canteros
