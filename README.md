@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/acanteros/acanteros/main/banner.png"
+    src="https://raw.githubusercontent.com/acanteros/acanteros/main/bftecno_baner.png"
     alt="BFTECNO - Tecnología, conocimiento y soluciones"
     width="100%"
   />
